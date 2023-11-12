@@ -1,0 +1,9 @@
+version: 1.2
+workflows:
+  - subclass: WDL
+    primaryDescriptorPath: /wdl/lsgkm_test.wdl
+    testParameterFiles:
+      - /exec/lsgkm_test.json
+    authors:
+      - name: Dongwon Lee
+      - email: dongwon.lee@childrens.harvard.edu
