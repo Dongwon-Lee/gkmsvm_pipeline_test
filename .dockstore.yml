@@ -6,5 +6,3 @@ workflows:
       - /exec/lsgkm_test.json
     authors:
       - orcid: 0000-0002-1568-2249
-      - name: Dongwon Lee
-      - email: dongwon.lee@childrens.harvard.edu
