@@ -1,4 +1,7 @@
 {
     "lsgkmTrain.posInputFastaFile": "/home/dlee/gkmsvm_pipeline_test/data/vcm.pos.tr.1k.fa",
-    "lsgkmTrain.negInputFastaFile": "/home/dlee/gkmsvm_pipeline_test/data/vcm.neg.tr.1k.fa"
+    "lsgkmTrain.negInputFastaFile": "/home/dlee/gkmsvm_pipeline_test/data/vcm.neg.tr.1k.fa",
+    "lsgkmTrain.L": 8,
+    "lsgkmTrain.k": 6,
+    "lsgkmTrain.d": 2
 }
